@@ -1,0 +1,11 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js myapp",
+  "author": "Davide Costantini <me@davidecostantini.it>",
+  "main": "myapp/helloworld.js",
+  "scripts": {
+    "start": "node myapp/helloworld.js"
+  }
+}
